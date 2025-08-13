@@ -1,2 +1,3 @@
-# cpp-heat-solver
-1D heat and advection solver using finite differences with CLI interface and performance tuning.
+# C++ Simulation Benchmarking Tool
+
+Detailed README and code coming soon. This project implements and benchmarks finite difference solvers for 1D PDEs.
